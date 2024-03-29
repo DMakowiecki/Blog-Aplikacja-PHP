@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.hb {
+	background-color: #2a2e2b;
+}
+.navi{
+	background-color: black;
+	widows: 100%;
+}
+body{
+	padding: 0;
+}
+#map{
+	width:250px;
+}
+#img_art{
+	width: 100px;
+}
+@media screen and (min-width: 991px) {
+  #map {
+    width: 600px;
+  }
+}
